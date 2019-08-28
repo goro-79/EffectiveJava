@@ -1,5 +1,8 @@
 package com.grsdev.effective.java.chap02.item06.reusingObjects;
 
+import java.util.Arrays;
+import java.util.stream.IntStream;
+
 import static java.lang.System.out;
 
 public class AutoBoxing {

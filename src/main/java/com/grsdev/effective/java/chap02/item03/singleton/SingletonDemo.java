@@ -1,8 +1,5 @@
 package com.grsdev.effective.java.chap02.item03.singleton;
 
-import com.sun.deploy.util.ReflectionUtil;
-import sun.reflect.Reflection;
-import sun.rmi.runtime.Log;
 
 import java.io.Serializable;
 import java.time.LocalDate;
